@@ -1,0 +1,21 @@
+# Temp files
+*~
+*.swp
+*.bak
+
+# C cruft
+*.i
+*.s
+*.o
+*.a
+*.so
+
+# Weird Macintosh file
+.DS_Store
+
+# Executables
+trace-hunt
+test-hunt
+
+# Some private stuff
+private
